@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SIS457LAB0103.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{53A3D87B-6CF8-4480-8104-BC9AD5790E74}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SIS457LAB0103.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SIS457LAB0103Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{EC242363-974E-458D-AEB2-99806303FF7F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SIS457LAB0103">
+      <UniqueIdentifier>{4F724215-3007-4B39-995E-06611BAB878C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\ClassText.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\ClassText.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SIS457LAB0103\SIS457LAB0103.Build.cs">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103GameModeBase.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103GameModeBase.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
